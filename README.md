@@ -2,7 +2,7 @@
 
 This app will be a battle simulator for Pokemon in augmented reality
 
-At the moment, it requires nothing to run, just access to camera
+At the moment, it requires nothing to run, just access to camera. The method I've been using to test on my Android device was enabling developer options and USB debugging on my phone, finding my remote device on chrome devtools after connecting my device to my development machine via USB, using liveserver for VSCode and portforwarding for my remote device. 
 
 Initial goal: create a pokemon damage calculator
 Updated goal: create a pokemon battle simulator in AR
